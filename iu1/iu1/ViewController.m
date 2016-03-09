@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    NSString *str = @"我是条木材少年";
 }
 
 - (void)didReceiveMemoryWarning {
